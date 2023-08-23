@@ -17,3 +17,8 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 # JavaTutorials.
+
+## 1.Static vs. Public
+- Static - Static methods can be called without creating objects
+- Public - Public methods must be called by creating objects
+
